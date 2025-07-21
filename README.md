@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jeel Kathiria
+<h1 aligh="center"># Hi 👋, I'm Jeel Kathiria</h1>
 
 # About Me:
 
