@@ -13,7 +13,7 @@ Open to learning new technologies and contributing to meaningful projects.
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,sql,mongodb,python,html,css,tailwind,bootstrap,git,vscode,php" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,SQL,mongodb,python,html,css,tailwind,bootstrap,git,vscode,php" />
 </p>
 
 
