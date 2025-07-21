@@ -3,8 +3,8 @@
 # About Me:
 
 I am an IT engineering student passionate about full-stack development, with hands-on experience in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
-I have a solid foundation in **Java** and continuously work on improving my skills in **problem-solving** and **Data Structures & Algorithms**.  
-Open to learning new technologies and contributing to meaningful projects.
+I have a beginner-to-intermediate foundation in **Python** and I am currently starting my journey in **Data Structures & Algorithms** and problem-solving.  
+Eager to learn new technologies and contribute to impactful projects.
 
 ---
 
@@ -13,7 +13,7 @@ Open to learning new technologies and contributing to meaningful projects.
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,SQL,mongodb,python,html,css,tailwind,bootstrap,git,vscode,php" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,mongodb,python,html,css,tailwind,bootstrap,git,vscode,php,vite" />
 </p>
 
 
