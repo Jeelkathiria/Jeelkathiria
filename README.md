@@ -8,9 +8,7 @@ Eager to learn new technologies and contribute to impactful projects.
 
 ---
 
-## 💻 Tech Stack:
-
-## 🛠️ Tech Stack & Tools  
+## Technology I worked with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,mongodb,python,html,css,tailwind,bootstrap,git,vscode,php,vite" />
