@@ -8,25 +8,13 @@ Open to learning new technologies and contributing to meaningful projects.
 
 ---
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeel-kathiria-56786628a/)
-
----
-
 ## 💻 Tech Stack:
 
 ## 🛠️ Tech Stack & Tools  
 
-## 🛠️ Tech Stack & Tools  
-
-## 🛠️ Tech Stack & Tools  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,prisma,rust,python,cpp,html,css,tailwind,git,vscode,php" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,html,css,tailwind,bootstrap,git,vscode,php" />
 </p>
-
-
 
 
 ---
@@ -38,3 +26,17 @@ Open to learning new technologies and contributing to meaningful projects.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeelkathiria&layout=compact&theme=radical)
 
 ---
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:jeelkathiriya10f@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jeel-kathiria-56786628a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"Stay curious, stay creative."</i> 🚀</p>
